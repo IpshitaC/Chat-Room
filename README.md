@@ -19,25 +19,25 @@ This was developed as a beginner level project for Winter Practical Training Eva
 * Java AWT Package
 
 ## Demo
-This is the Server GUI
+* ### This is the Server GUI
 ![](https://github.com/IpshitaC/Chat-Room/blob/master/assets/server_gui.png)
 
-This is a single client, along with the Server GUI
+* ### This is a single client, along with the Server GUI
 ![](https://github.com/IpshitaC/Chat-Room/blob/master/assets/single_client_server_gui.png)
 
-The Server is started, in order to accept clients
+* ### The Server is started, in order to accept clients
 ![](https://github.com/IpshitaC/Chat-Room/blob/master/assets/start_server.png)
 
-The client connects to the Server
+* ### The client connects to the Server
 ![](https://github.com/IpshitaC/Chat-Room/blob/master/assets/connected_client.png)
 
-The client can now send messages
+* ### The client can now send messages
 ![](https://github.com/IpshitaC/Chat-Room/blob/master/assets/connected_client_chat.png)
 
-Connecting a second client to the server
+* ### Connecting a second client to the server
 ![](https://github.com/IpshitaC/Chat-Room/blob/master/assets/two_clients_server.png)
 
-Exchange of messages between the two clients
+* ### Exchange of messages between the two clients
 ![](https://github.com/IpshitaC/Chat-Room/blob/master/assets/two_clients_server_chat.png)
 
 ## Contributing
