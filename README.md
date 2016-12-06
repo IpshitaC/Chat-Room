@@ -1,4 +1,4 @@
-# Chat Room
+# :email: Chat Room
 
 
 ### Table of Contents
